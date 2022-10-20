@@ -22,9 +22,11 @@ namespace DesafioAvaliativo1DotNet_ATOS
                 {
                     linha = leitor.ReadLine();
                     linhaDados = linha.Split("-");
-                   
+                    pessoa = new Pessoa(linhaDados[1], linhaDados[2], linhaDados[3], linhaDados[4], linhaDados[5]);
+                    
 
-                } while (!leitor.EndOfStream);                             
+                } while (!leitor.EndOfStream);
+                leitor.Close();
             }
 
             catch(Exception e)
