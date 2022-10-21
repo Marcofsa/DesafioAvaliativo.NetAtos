@@ -9,39 +9,81 @@ namespace DesafioAvaliativo1DotNet_ATOS
         {
             try
             {
-                string nome, telefone;
-                string cidade, id;
-                string cpf;
                 string linha;
                 string[] linhaDados;
-                Pessoa pessoa;
 
-                List<string> alunos = new List<string>();
+                List<Aluno> listAlunos = new List<Aluno>();
+                List<Pessoa> listPessoas = new List<Pessoa>();
+
                 StreamReader leitor = new StreamReader(@"C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\desafio1 apoio.txt");
-               
-                while((linha = leitor.ReadLine())!= null)
+                List<string> listaLinhasArquivo = new List<string>();
+
+                linha = leitor.ReadLine();
+
+                while (linha != null)
                 {
-                    Aluno aluno = new Aluno();
-                    
-
-                    linhaDados = linha.Split("-");
-                    if (!linhaDados[0].Equals("X") )
-                    {
-
-                        if (linhaDados[0].Equals("Z"))
-                        {
-                            Console.WriteLine(linha);
-                        }
-                        else {
-                            Console.WriteLine(linha);
-
-                        }
-                    }                                
+                    listaLinhasArquivo.Add(linha);  
+                    linha = leitor.ReadLine();
                 } 
                 leitor.Close();
-            }
 
-            catch(Exception e)
+                for (int i = 0; i < listaLinhasArquivo.Count; i++)
+                {
+                    Pessoa pessoa = new Pessoa();
+                    Aluno aluno = new Aluno();
+                    if (listaLinhasArquivo[i] != null)
+                    {
+                        linhaDados = listaLinhasArquivo[i].Split("-"); 
+                        if (!linhaDados[0].Equals("X"))
+                        {
+                            if (linhaDados[0].Equals("Z"))
+                            {
+                                if( i+1 < listaLinhasArquivo.Count)
+                                {
+                                    var linhaDadosProximo = listaLinhasArquivo[i+1].Split("-");
+                                    if (linhaDadosProximo[0].Equals("Z"))
+                                    {
+                                        pessoa.nome = linhaDados[1];
+                                        pessoa.Fone = linhaDados[2];
+                                        pessoa.Cidade = linhaDados[3];
+                                        pessoa.Rg = linhaDados[4];
+                                        pessoa.Cpf = linhaDados[5];
+
+                                        listPessoas.Add(pessoa);
+                                    }
+                                    else
+                                    {
+                                        aluno.nome = linhaDados[1];
+                                        aluno.Fone = linhaDados[2];
+                                        aluno.Cidade = linhaDados[3];
+                                        aluno.Rg = linhaDados[4];
+                                        aluno.Cpf = linhaDados[5];
+
+                                        aluno.matricula = linhaDadosProximo[1];
+                                        aluno.codCurso = linhaDadosProximo[2];
+                                        aluno.nomeCurso = linhaDadosProximo[3];
+
+                                        listAlunos.Add(aluno);          
+                                    }
+                                }
+                                else
+                                {
+                                    pessoa.nome = linhaDados[1];
+                                    pessoa.Fone = linhaDados[2];
+                                    pessoa.Cidade = linhaDados[3];
+                                    pessoa.Rg = linhaDados[4];
+                                    pessoa.Cpf = linhaDados[5];
+
+                                    listPessoas.Add(pessoa);
+                                }
+                            }
+                        }
+                    } 
+                }
+                Console.WriteLine("MOSTRANDO A QUANTIDADE DE PESSOAS SEM MATRÍCULA: " + listPessoas.Count);
+                Console.WriteLine("MOSTRANDO ALUNOS MATRICULADOS: " + listAlunos.Count);
+            }
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message); 
             }

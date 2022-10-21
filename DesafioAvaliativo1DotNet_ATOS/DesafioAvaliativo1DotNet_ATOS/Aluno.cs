@@ -10,11 +10,10 @@ namespace DesafioAvaliativo1DotNet_ATOS
 {
     internal class Aluno : Pessoa
     {
-       
-        private string matricula { get; set; }
-        private string codCurso { get; set; }
-        private string nomeCurso { get; set; }
-
-
+        public string matricula { get; set; }
+        public string codCurso { get; set; }
+        public string nomeCurso { get; set; }
     }
+
+   
 }
