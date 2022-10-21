@@ -19,7 +19,7 @@ namespace DesafioAvaliativo1DotNet_ATOS
                 List<string> listaLinhasArquivo = new List<string>();
 
                 linha = leitor.ReadLine();
-
+             
                 while (linha != null)
                 {
                     listaLinhasArquivo.Add(linha);  
@@ -80,13 +80,24 @@ namespace DesafioAvaliativo1DotNet_ATOS
                         }
                     } 
                 }
-                Console.WriteLine("MOSTRANDO A QUANTIDADE DE PESSOAS SEM MATRÍCULA: " + listPessoas.Count);
-                Console.WriteLine("MOSTRANDO ALUNOS MATRICULADOS: " + listAlunos.Count);
+                Console.WriteLine("MOSTRANDO A QUANTIDADE DE PESSOAS SEM MATRÍCULA:\n " + listPessoas.Count);
+                Console.WriteLine("MOSTRANDO ALUNOS MATRICULADOS:\n " + listAlunos.Count);
+
+                foreach (var pessoa in listPessoas)
+                {
+                    pessoa.mostraDados();
+                }
+                Console.WriteLine("----------------------------------------------------------------");
+                foreach(var aluno in listAlunos)
+                {
+                    aluno.mostraAlunos();
+                }
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message); 
             }
+            
             finally
             {
                 Console.WriteLine("Finalizando bloco.");

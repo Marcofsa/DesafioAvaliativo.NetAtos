@@ -13,9 +13,11 @@ namespace DesafioAvaliativo1DotNet_ATOS
         public string Fone { get; set; }
         public string Cidade { get; set; }
         public string Rg { get; set; }
-        public string Cpf { get; set; }  
+        public string Cpf { get; set; }
+
+        public void mostraDados()
+        {
+            Console.WriteLine(nome + " " + Fone + " " + Cidade + " "+ Rg + " " + Cpf);
+        }
     }
-    //List<Pessoa> listPessoas = new List<Pessoa>();
 }
-
-

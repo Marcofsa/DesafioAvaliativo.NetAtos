@@ -10,12 +10,19 @@ namespace DesafioAvaliativo1DotNet_ATOS
 {
     internal class Aluno : Pessoa
     {
+        internal static object mostraAluno;
+
         public string matricula { get; set; }
         public string codCurso { get; set; }
         public string nomeCurso { get; set; }
+        public void mostraAlunos()
+        {
+            Console.WriteLine(nome + " " + Fone + " " + Cidade + " " + Rg + " " + Cpf);
+            Console.WriteLine(matricula+ " " + codCurso+ " " + nomeCurso);
+        }
     }
 
-    //List<Aluno> listAlunos = new List<Aluno>();
+}
 
    
-}
+
