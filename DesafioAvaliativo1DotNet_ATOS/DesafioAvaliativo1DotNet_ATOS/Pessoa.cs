@@ -14,13 +14,6 @@ namespace DesafioAvaliativo1DotNet_ATOS
         public string Cidade { get; set; }
         public string Rg { get; set; }
         public string Cpf { get; set; }
-        public Pessoa(string nome, string telefone, string cidade, string id, string cpf)
-        {   
-            nomeAluno = nome;
-            Fone = telefone;
-            Cidade = cidade;
-            Rg = id;
-            Cpf = cpf;
-        }
+       
     }
 }

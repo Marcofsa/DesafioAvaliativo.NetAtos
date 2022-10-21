@@ -18,14 +18,26 @@ namespace DesafioAvaliativo1DotNet_ATOS
 
                 List<string> alunos = new List<string>();
                 StreamReader leitor = new StreamReader(@"C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\desafio1 apoio.txt");
-                do
+               
+                while((linha = leitor.ReadLine())!= null)
                 {
-                    linha = leitor.ReadLine();
-                    linhaDados = linha.Split("-");
-                    pessoa = new Pessoa(linhaDados[1], linhaDados[2], linhaDados[3], linhaDados[4], linhaDados[5]);
+                    Aluno aluno = new Aluno();
                     
 
-                } while (!leitor.EndOfStream);
+                    linhaDados = linha.Split("-");
+                    if (!linhaDados[0].Equals("X") )
+                    {
+
+                        if (linhaDados[0].Equals("Z"))
+                        {
+                            Console.WriteLine(linha);
+                        }
+                        else {
+                            Console.WriteLine(linha);
+
+                        }
+                    }                                
+                } 
                 leitor.Close();
             }
 

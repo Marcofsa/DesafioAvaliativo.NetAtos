@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Reflection.Metadata.Ecma335;
 
 namespace DesafioAvaliativo1DotNet_ATOS
 {
     internal class Aluno : Pessoa
     {
-        public Aluno(string aluno, string telefone, string cidade, string id, string cpf) : base(aluno, telefone, cidade, id, cpf)
-        {
+       
+        private string matricula { get; set; }
+        private string codCurso { get; set; }
+        private string nomeCurso { get; set; }
 
-        }
+
     }
 }
