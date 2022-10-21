@@ -17,8 +17,10 @@ namespace DesafioAvaliativo1DotNet_ATOS
         public string nomeCurso { get; set; }
         public void mostraAlunos()
         {
+            Console.WriteLine("||------------------------------------------------------------------------------------------------------------||");
             Console.WriteLine(nome + " " + Fone + " " + Cidade + " " + Rg + " " + Cpf);
             Console.WriteLine(matricula+ " " + codCurso+ " " + nomeCurso);
+            Console.WriteLine("||------------------------------------------------------------------------------------------------------------||");
         }
     }
 
