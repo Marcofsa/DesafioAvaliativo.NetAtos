@@ -15,6 +15,7 @@ namespace DesafioAvaliativo1DotNet_ATOS
         public string Rg { get; set; }
         public string Cpf { get; set; }  
     }
+    //List<Pessoa> listPessoas = new List<Pessoa>();
 }
 
 

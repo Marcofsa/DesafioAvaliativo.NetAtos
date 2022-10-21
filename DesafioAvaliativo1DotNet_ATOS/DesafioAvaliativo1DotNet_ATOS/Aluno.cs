@@ -15,5 +15,7 @@ namespace DesafioAvaliativo1DotNet_ATOS
         public string nomeCurso { get; set; }
     }
 
+    //List<Aluno> listAlunos = new List<Aluno>();
+
    
 }
