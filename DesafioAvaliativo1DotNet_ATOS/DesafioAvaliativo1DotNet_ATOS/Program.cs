@@ -87,7 +87,7 @@ namespace DesafioAvaliativo1DotNet_ATOS
                 {
                     pessoa.mostraDados();
                 }
-                Console.WriteLine("----------------------------------------------------------------");
+                Console.WriteLine("**----------------------------------------------------------------**");
                 foreach(var aluno in listAlunos)
                 {
                     aluno.mostraAlunos();
@@ -100,7 +100,7 @@ namespace DesafioAvaliativo1DotNet_ATOS
             
             finally
             {
-                Console.WriteLine("Finalizando bloco.");
+                Console.WriteLine("Finalizando bloco!.");
             }
         }
     }
