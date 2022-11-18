@@ -31,7 +31,6 @@ create table Tbproduto
 idProduto int identity (1,1) not null,
 nome_prod varchar (50) not null,
 valor_prod decimal not null,
-quantidade_prod int,
 primary key (idProduto)
 );
 
@@ -64,16 +63,18 @@ select * from Tbfornecedores
 select * from Tbcliente
 select * from Tbvendas
 
---drop table Tbfornecedores	
---drop table Tbproduto
---drop table Tbcliente
---drop table Tbvendas
+drop table Tbfornecedores	
+drop table Tbproduto
+drop table Tbcliente
+drop table Tbvendas
 
---delete from Tbproduto
+delete from Tbproduto
 
---delete from Tbfornecedores
+delete from Tbfornecedores
 
---delete from Tbcliente
+delete from Tbcliente
+
+delete from Tbvendas
 
 
 alter table Tbvendas
