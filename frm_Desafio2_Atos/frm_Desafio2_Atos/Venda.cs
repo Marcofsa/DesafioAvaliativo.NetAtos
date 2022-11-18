@@ -35,6 +35,7 @@ namespace frm_Desafio2_Atos
             com.Parameters[0].Value = idProduto;
             com.Parameters[1].Value = idCliente;
             com.Parameters[2].Value = valorProd;
+
           
             try
             {

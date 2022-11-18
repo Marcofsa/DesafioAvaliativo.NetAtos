@@ -10,6 +10,7 @@ go
 ---------------------------------------------
 use [db_sistema]
 ----------------------------------
+--- executar 2
 create table Tbfornecedores
 (
 idFornecedor int identity not null,
@@ -24,6 +25,7 @@ on delete no action
 on update no action
 );
 
+-- executar 1
 create table Tbproduto
 (
 idProduto int identity (1,1) not null,
@@ -33,12 +35,12 @@ quantidade_prod int,
 primary key (idProduto)
 );
 
+--- executar 4
 create table Tbvendas
 (
 idVenda int identity(1,1) not null,
 idProduto int not null,
 idCliente int not null,
-nomeProd varchar (50) not null,
 valorProd decimal not null,
 constraint fk_Tbvendas_Tbproduto
 foreign key (idProduto)
@@ -49,6 +51,7 @@ foreign key (idCliente)
 references Tbcliente
 );
 
+---- executar 3
 create table Tbcliente
 (
 idCliente int identity(1,1) not null,
@@ -61,13 +64,17 @@ select * from Tbfornecedores
 select * from Tbcliente
 select * from Tbvendas
 
-drop table Tbfornecedores	
-drop table Tbproduto
-drop table Tbcliente
-drop table Tbvendas
+--drop table Tbfornecedores	
+--drop table Tbproduto
+--drop table Tbcliente
+--drop table Tbvendas
 
-delete from Tbproduto
+--delete from Tbproduto
 
-delete from Tbfornecedores
+--delete from Tbfornecedores
 
-delete from Tbcliente
+--delete from Tbcliente
+
+
+alter table Tbvendas
+drop column nomeProd
