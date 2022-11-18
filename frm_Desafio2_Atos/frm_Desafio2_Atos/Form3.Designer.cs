@@ -85,6 +85,7 @@
             this.botao_ExcluirProd.TabIndex = 5;
             this.botao_ExcluirProd.Text = "Excluir Produto";
             this.botao_ExcluirProd.UseVisualStyleBackColor = true;
+            this.botao_ExcluirProd.Click += new System.EventHandler(this.botao_ExcluirProd_Click);
             // 
             // grid_Produto
             // 

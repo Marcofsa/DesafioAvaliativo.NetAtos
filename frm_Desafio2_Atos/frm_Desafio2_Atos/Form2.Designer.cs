@@ -32,7 +32,7 @@
             this.textBox_NomeCliente = new System.Windows.Forms.TextBox();
             this.grid_Cliente = new System.Windows.Forms.DataGridView();
             this.botao_CadCliente = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.botao_ExcluirCliente = new System.Windows.Forms.Button();
             this.botao_Voltar = new System.Windows.Forms.Button();
             this.botao_buscaCliente = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.grid_Cliente)).BeginInit();
@@ -77,14 +77,15 @@
             this.botao_CadCliente.UseVisualStyleBackColor = true;
             this.botao_CadCliente.Click += new System.EventHandler(this.botao_CadCliente_Click);
             // 
-            // button2
+            // botao_ExcluirCliente
             // 
-            this.button2.Location = new System.Drawing.Point(408, 41);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(100, 39);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "Excluir";
-            this.button2.UseVisualStyleBackColor = true;
+            this.botao_ExcluirCliente.Location = new System.Drawing.Point(408, 41);
+            this.botao_ExcluirCliente.Name = "botao_ExcluirCliente";
+            this.botao_ExcluirCliente.Size = new System.Drawing.Size(100, 39);
+            this.botao_ExcluirCliente.TabIndex = 4;
+            this.botao_ExcluirCliente.Text = "Excluir";
+            this.botao_ExcluirCliente.UseVisualStyleBackColor = true;
+            this.botao_ExcluirCliente.Click += new System.EventHandler(this.button2_Click);
             // 
             // botao_Voltar
             // 
@@ -114,7 +115,7 @@
             this.ClientSize = new System.Drawing.Size(754, 490);
             this.Controls.Add(this.botao_buscaCliente);
             this.Controls.Add(this.botao_Voltar);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.botao_ExcluirCliente);
             this.Controls.Add(this.botao_CadCliente);
             this.Controls.Add(this.grid_Cliente);
             this.Controls.Add(this.textBox_NomeCliente);
@@ -134,7 +135,7 @@
         private TextBox textBox_NomeCliente;
         private DataGridView grid_Cliente;
         private Button botao_CadCliente;
-        private Button button2;
+        private Button botao_ExcluirCliente;
         private Button botao_Voltar;
         private Button botao_buscaCliente;
     }

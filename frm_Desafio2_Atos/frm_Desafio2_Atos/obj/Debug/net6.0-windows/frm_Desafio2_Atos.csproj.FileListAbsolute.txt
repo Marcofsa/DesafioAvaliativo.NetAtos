@@ -27,3 +27,4 @@ C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\frm_Desafio2_A
 C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\frm_Desafio2_Atos\frm_Desafio2_Atos\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\frm_Desafio2_Atos\frm_Desafio2_Atos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\frm_Desafio2_Atos\frm_Desafio2_Atos\obj\Debug\net6.0-windows\frm_Desafio2_Atos.frm_Vendas.resources
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\frm_Desafio2_Atos\frm_Desafio2_Atos\obj\Debug\net6.0-windows\frm_Desafio2_Atos.frm_Relatorio.resources

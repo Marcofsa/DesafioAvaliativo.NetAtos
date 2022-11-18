@@ -44,5 +44,35 @@ namespace frm_Desafio2_Atos
                 MessageBox.Show("Erro ao cadastrar o cliente.");
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Fornecedor forn = new Fornecedor();
+            forn.fornecedor = textBox_NomeCliente.Text;
+            //var i = grid_Fornecedor.SelectedRows[0].Index.ToString();
+
+            if (grid_Cliente.SelectedRows.Count == 0)
+            {
+                MessageBox.Show("Informe um item para excluir.");
+            }
+            else
+            {
+                forn.id = int.Parse(grid_Cliente.Rows[grid_Cliente.SelectedRows[0].Index].Cells[0].Value.ToString());
+
+                if (forn.deletar())
+                {
+                    MessageBox.Show("Cliente deletado com sucesso!");
+
+                    Banco bd = new Banco();
+                    DataTable dt = new DataTable();
+                    dt = bd.executaConsulta("delete from Tbcliente where idCliente =  @id");
+                    grid_Cliente.DataSource = dt;
+                }
+                else
+                {
+                    MessageBox.Show("Erro ao deletar o Cliente.");
+                }
+            }
+        }
     }
 }

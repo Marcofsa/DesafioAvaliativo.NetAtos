@@ -38,7 +38,6 @@ create table Tbvendas
 idVenda int identity(1,1) not null,
 idProduto int not null,
 idCliente int not null,
-nomeProd varchar (50) not null,
 valorProd decimal not null,
 constraint fk_Tbvendas_Tbproduto
 foreign key (idProduto)
@@ -46,7 +45,7 @@ references Tbproduto,
 
 constraint fk_Tbvendas_Tbcliente
 foreign key (idCliente)
-references Tbcliente
+references (idCliente)
 );
 
 create table Tbcliente

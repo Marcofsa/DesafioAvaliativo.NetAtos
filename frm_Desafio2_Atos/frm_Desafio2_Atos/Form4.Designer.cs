@@ -65,7 +65,7 @@
             this.grid_Produto.AllowUserToAddRows = false;
             this.grid_Produto.AllowUserToDeleteRows = false;
             this.grid_Produto.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.grid_Produto.Location = new System.Drawing.Point(122, 107);
+            this.grid_Produto.Location = new System.Drawing.Point(128, 107);
             this.grid_Produto.MultiSelect = false;
             this.grid_Produto.Name = "grid_Produto";
             this.grid_Produto.ReadOnly = true;
@@ -75,7 +75,7 @@
             // 
             // botao_CadFornecedor
             // 
-            this.botao_CadFornecedor.Location = new System.Drawing.Point(561, 64);
+            this.botao_CadFornecedor.Location = new System.Drawing.Point(577, 19);
             this.botao_CadFornecedor.Name = "botao_CadFornecedor";
             this.botao_CadFornecedor.Size = new System.Drawing.Size(100, 39);
             this.botao_CadFornecedor.TabIndex = 5;
@@ -85,7 +85,7 @@
             // 
             // botao_ExcluirFornecedor
             // 
-            this.botao_ExcluirFornecedor.Location = new System.Drawing.Point(463, 300);
+            this.botao_ExcluirFornecedor.Location = new System.Drawing.Point(457, 242);
             this.botao_ExcluirFornecedor.Name = "botao_ExcluirFornecedor";
             this.botao_ExcluirFornecedor.Size = new System.Drawing.Size(100, 39);
             this.botao_ExcluirFornecedor.TabIndex = 6;
@@ -95,7 +95,7 @@
             // 
             // botao_Voltar
             // 
-            this.botao_Voltar.Location = new System.Drawing.Point(613, 424);
+            this.botao_Voltar.Location = new System.Drawing.Point(624, 406);
             this.botao_Voltar.Name = "botao_Voltar";
             this.botao_Voltar.Size = new System.Drawing.Size(100, 39);
             this.botao_Voltar.TabIndex = 9;
@@ -105,7 +105,7 @@
             // 
             // botao_buscaFornecedor
             // 
-            this.botao_buscaFornecedor.Location = new System.Drawing.Point(128, 300);
+            this.botao_buscaFornecedor.Location = new System.Drawing.Point(128, 242);
             this.botao_buscaFornecedor.Name = "botao_buscaFornecedor";
             this.botao_buscaFornecedor.Size = new System.Drawing.Size(100, 39);
             this.botao_buscaFornecedor.TabIndex = 10;
@@ -127,7 +127,7 @@
             this.grid_MostraFornecedores.AllowUserToAddRows = false;
             this.grid_MostraFornecedores.AllowUserToDeleteRows = false;
             this.grid_MostraFornecedores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.grid_MostraFornecedores.Location = new System.Drawing.Point(128, 345);
+            this.grid_MostraFornecedores.Location = new System.Drawing.Point(122, 312);
             this.grid_MostraFornecedores.MultiSelect = false;
             this.grid_MostraFornecedores.Name = "grid_MostraFornecedores";
             this.grid_MostraFornecedores.ReadOnly = true;
