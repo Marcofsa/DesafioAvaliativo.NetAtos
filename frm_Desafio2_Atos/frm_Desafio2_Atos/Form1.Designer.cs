@@ -38,9 +38,9 @@
             // 
             // botao_Cad_Prod
             // 
-            this.botao_Cad_Prod.Location = new System.Drawing.Point(164, 101);
+            this.botao_Cad_Prod.Location = new System.Drawing.Point(131, 156);
             this.botao_Cad_Prod.Name = "botao_Cad_Prod";
-            this.botao_Cad_Prod.Size = new System.Drawing.Size(203, 102);
+            this.botao_Cad_Prod.Size = new System.Drawing.Size(130, 67);
             this.botao_Cad_Prod.TabIndex = 1;
             this.botao_Cad_Prod.Text = "Cadastrar Produtos";
             this.botao_Cad_Prod.UseVisualStyleBackColor = true;
@@ -48,9 +48,9 @@
             // 
             // botao_Pg_Cliente
             // 
-            this.botao_Pg_Cliente.Location = new System.Drawing.Point(164, 209);
+            this.botao_Pg_Cliente.Location = new System.Drawing.Point(340, 156);
             this.botao_Pg_Cliente.Name = "botao_Pg_Cliente";
-            this.botao_Pg_Cliente.Size = new System.Drawing.Size(203, 102);
+            this.botao_Pg_Cliente.Size = new System.Drawing.Size(130, 67);
             this.botao_Pg_Cliente.TabIndex = 2;
             this.botao_Pg_Cliente.Text = "Cadastrar Clientes";
             this.botao_Pg_Cliente.UseVisualStyleBackColor = true;
@@ -58,9 +58,9 @@
             // 
             // botao_Cad_Forn
             // 
-            this.botao_Cad_Forn.Location = new System.Drawing.Point(373, 101);
+            this.botao_Cad_Forn.Location = new System.Drawing.Point(549, 156);
             this.botao_Cad_Forn.Name = "botao_Cad_Forn";
-            this.botao_Cad_Forn.Size = new System.Drawing.Size(203, 102);
+            this.botao_Cad_Forn.Size = new System.Drawing.Size(130, 67);
             this.botao_Cad_Forn.TabIndex = 3;
             this.botao_Cad_Forn.Text = "Cadastrar Fornecedores";
             this.botao_Cad_Forn.UseVisualStyleBackColor = true;
@@ -68,9 +68,9 @@
             // 
             // botao_Vendas
             // 
-            this.botao_Vendas.Location = new System.Drawing.Point(373, 209);
+            this.botao_Vendas.Location = new System.Drawing.Point(340, 264);
             this.botao_Vendas.Name = "botao_Vendas";
-            this.botao_Vendas.Size = new System.Drawing.Size(203, 102);
+            this.botao_Vendas.Size = new System.Drawing.Size(130, 67);
             this.botao_Vendas.TabIndex = 4;
             this.botao_Vendas.Text = "Vender";
             this.botao_Vendas.UseVisualStyleBackColor = true;
@@ -78,7 +78,7 @@
             // 
             // botao_Relatorio
             // 
-            this.botao_Relatorio.Location = new System.Drawing.Point(273, 317);
+            this.botao_Relatorio.Location = new System.Drawing.Point(539, 376);
             this.botao_Relatorio.Name = "botao_Relatorio";
             this.botao_Relatorio.Size = new System.Drawing.Size(203, 102);
             this.botao_Relatorio.TabIndex = 5;
