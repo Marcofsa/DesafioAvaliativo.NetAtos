@@ -44,7 +44,6 @@ namespace frm_Desafio2_Atos
                 MessageBox.Show("Erro ao cadastrar o cliente.");
             }
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             Fornecedor forn = new Fornecedor();

@@ -14,7 +14,6 @@ namespace frm_Desafio2_Atos
         private string conec = "Data Source=localhost;Initial Catalog=db_sistema;" + "User ID=usuario; password=senha; language=Portuguese";
 
         private SqlConnection cn;
-
         public Banco()
         {
             cn = new SqlConnection(conec);
@@ -60,12 +59,10 @@ namespace frm_Desafio2_Atos
             {
                 return null;
             }
-
             finally
             {
                 fecharConexao();
             }
         }
-
     }
 }

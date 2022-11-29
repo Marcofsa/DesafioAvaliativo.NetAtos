@@ -17,7 +17,6 @@ namespace frm_Desafio2_Atos
         {
             Banco bd = new Banco();
             SqlConnection cn = bd.abrirConexao();
-
             SqlTransaction transacao = cn.BeginTransaction();
             SqlCommand com = new SqlCommand();
             com.Connection = cn;
@@ -37,7 +36,6 @@ namespace frm_Desafio2_Atos
             {
                 transacao.Rollback();
                 return false;
-
             }
             finally
             {

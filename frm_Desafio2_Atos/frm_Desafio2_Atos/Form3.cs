@@ -17,18 +17,12 @@ namespace frm_Desafio2_Atos
             InitializeComponent();
         }
         private string conec = "Data Source=localhost;Initial Catalog=db_sistema;" + "User ID=usuario; password=senha; language=Portuguese";
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void botao_Voltar_Click(object sender, EventArgs e)
         {
             frm_Principal frm_inicio = new frm_Principal();
             frm_inicio.Show();
             this.Hide();
         }
-
         private void botao_AddProd_Click(object sender, EventArgs e)
         {
             Produto p = new Produto();
@@ -51,7 +45,6 @@ namespace frm_Desafio2_Atos
                 }
             }
         }
-
         private void botao_buscaProduto_Click(object sender, EventArgs e)
         {
             Banco bd = new Banco();
@@ -59,7 +52,6 @@ namespace frm_Desafio2_Atos
             dt = bd.executaConsulta("select * from Tbproduto");
             grid_Produto.DataSource = dt;
         }
-
         private void botao_ExcluirProd_Click(object sender, EventArgs e)
         {
             Fornecedor forn = new Fornecedor();

@@ -11,7 +11,6 @@ namespace frm_Desafio2_Atos
         {
             InitializeComponent();
         }
-
         private string conec = "Data Source=localhost;Initial Catalog=db_sistema;" + "User ID=usuario; password=senha; language=Portuguese";
         private void botao_Cad_Prod_Click(object sender, EventArgs e)
         {
@@ -20,28 +19,24 @@ namespace frm_Desafio2_Atos
             frm_prod.Show();
             this.Hide();
         }
-
         private void botao_Cad_Cliente_Click(object sender, EventArgs e)
         {
             frm_Clientes cliente = new frm_Clientes();
             cliente.Show();
             this.Hide();
         }
-
         private void botao_Cad_Forn_Click(object sender, EventArgs e)
         {
             frm_Fornecedores forn = new frm_Fornecedores();
             forn.Show();
             this.Hide();
         }
-
         private void botao_Vendas_Click(object sender, EventArgs e)
         {
             frm_Vendas vendas = new frm_Vendas();
             vendas.Show();
             this.Hide();
         }
-
         private void botao_Relatorio_Click(object sender, EventArgs e)
         {
             frm_Relatorio rel = new frm_Relatorio();
