@@ -1,0 +1,128 @@
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.exe
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.deps.json
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.runtimeconfig.json
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.pdb
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Humanizer.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.AssemblyReference.cache
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.frmBiblioteca.resources
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.GenerateResource.cache
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.AssemblyInfoInputs.cache
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.AssemblyInfo.cs
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.CopyComplete
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\refint\Atos_ProjetoFinal.dll
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.pdb
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.genruntimeconfig.cache
+C:\GIT New ACADEMIA\ExerciciosAcademia.NetMetodos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\ref\Atos_ProjetoFinal.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.exe
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.deps.json
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.runtimeconfig.json
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Atos_ProjetoFinal.pdb
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Humanizer.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.AssemblyReference.cache
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.frmBiblioteca.resources
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.GenerateResource.cache
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.AssemblyInfoInputs.cache
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.AssemblyInfo.cs
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.csproj.CopyComplete
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\refint\Atos_ProjetoFinal.dll
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.pdb
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\Atos_ProjetoFinal.genruntimeconfig.cache
+C:\DesafiosAvaliativosAcademia_Atos.Net\DesafioAvaliativo.NetAtos\Atos_ProjetoFinal\Atos_ProjetoFinal\obj\Debug\net6.0-windows\ref\Atos_ProjetoFinal.dll
